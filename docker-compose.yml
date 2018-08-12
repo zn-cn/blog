@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    environment:
+      - TZ=Asia/Shanghai
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - .:/app/src
+    ports:
+      - "4000:4000"
+    container_name: blog
+    command: hexo server
