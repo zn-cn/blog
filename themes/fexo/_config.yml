@@ -13,7 +13,7 @@ favicon: /images/favicon.ico
 keywords: mu-mo,后台,运维,前端,backend,golang,python,nodejs,vue
 
 home_nav:
-  - name: 博客
+  - name: blog
     url: /archives
     target_blank: false #不在新页面打开
   - name: Project
@@ -28,8 +28,8 @@ home_nav:
 
 # config page nav
 page_nav:
-  - name: blo
-    url: /archives/
+  - name: blog
+    url: /archives
     target_blank: false # 不在新页面打开
   - name: 分类
     url: /categories/
@@ -80,17 +80,17 @@ backtop:
   link: false
   about: false
 
-# donation:
-#   show: true
-#   btn_text: 支持一下
-#   tip: 扫一扫，支持forsigner
-#   items:
-#     - type: 微信
-#       text: 微信扫一扫
-#       imgUrl: /images/qr-wechat.png
-#     - type: 支付宝
-#       text: 支付宝扫一扫
-#       imgUrl: /images/qr-alipay.png
+donation:
+  show: false
+  btn_text: 支持一下
+  tip: 扫一扫，支持forsigner
+  items:
+    - type: 微信
+      text: 微信扫一扫
+      imgUrl: /images/qr-wechat.png
+    - type: 支付宝
+      text: 支付宝扫一扫
+      imgUrl: /images/qr-alipay.png
 
 
 
