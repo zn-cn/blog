@@ -13,7 +13,7 @@ favicon: /images/favicon.ico
 keywords: mu-mo,后台,运维,前端,backend,golang,python,nodejs,vue
 
 home_nav:
-  - name: blog
+  - name: Blog
     url: /archives
     target_blank: false #不在新页面打开
   - name: Project
@@ -28,7 +28,7 @@ home_nav:
 
 # config page nav
 page_nav:
-  - name: blog
+  - name: Blog
     url: /archives
     target_blank: false # 不在新页面打开
   - name: 分类
