@@ -81,10 +81,10 @@ deploy:
   type:
 
 # hexo-admin authentification
-admin:
-  username: mu-mo
-  password_hash: $2a$10$LyPXyXTD68THuvw9TiBwzuarEVHl75xvZKPAWhRtsTPeTfiHZYXHi
-  secret: You guess
+# admin:
+#   username: mu-mo
+#   password_hash: $2a$10$LyPXyXTD68THuvw9TiBwzuarEVHl75xvZKPAWhRtsTPeTfiHZYXHi
+#   secret: You guess
 
 # RSS
 feed:
