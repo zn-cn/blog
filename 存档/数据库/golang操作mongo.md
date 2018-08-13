@@ -1,13 +1,3 @@
----
-title: golang 操作mgo
-date: 2018-02-16 12:51:07
-tags: 
-	- golang
-        - mongodb
-categories: 
-	- 数据库
----
-
 [mgo教程](http://www.runoob.com/mongodb/mongodb-tutorial.html) 
 
 ```go
