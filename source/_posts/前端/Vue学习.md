@@ -1,12 +1,12 @@
 ---
-title: [转载]Vue -渐进式JavaScript框架
-date: 2018-01-31 8:42:12
+title: 转载 Vue-渐进式JavaScript框架
+date: 2018-01-30 22:42:12
 tags:
-  - git
+  - vue
+  - 前端
 categories:
   - 前端
 ---
-
 
 ## 介绍
 

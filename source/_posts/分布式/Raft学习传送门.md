@@ -10,7 +10,7 @@ categories:
 
 **[Raft官网](https://raft.github.io/)**
 
-+ [官方可视化动画1](https://raft.github.io/) 
++ [官方可视化动画1](https://raft.github.io/)
 
 
 + [官方可视化动画2](http://thesecretlivesofdata.com/raft/)

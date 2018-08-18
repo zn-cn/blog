@@ -1,10 +1,10 @@
 ---
-title: [转载]Golang 新手可能会踩的 50 个坑
+title: 转载 Golang 新手可能会踩的 50 个坑
 date: 2018-08-07 12:15:00
 tags:
-	- golang
+  - golang
 categories:
-	- golang
+  - golang
 ---
 
 原文：[50 Shades of Go: Traps, Gotchas, and Common Mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)，翻译已获作者 [kcqon](https://twitter.com/kcqon) 授权。
