@@ -1,6 +1,6 @@
 ---
 title: [转载]Vue -渐进式JavaScript框架
-date: 2018-1-31 8:42:12
+date: 2018-01-31 8:42:12
 tags:
   - git
 categories:
