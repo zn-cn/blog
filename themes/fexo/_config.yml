@@ -19,7 +19,7 @@ home_nav:
   - name: Project
     url: /project/
     target_blank: true #在新页面打开
-  - name: 关于
+  - name: About
     url: /about/
     target_blank: false
   - name: Github
@@ -28,7 +28,7 @@ home_nav:
 
 # config page nav
 page_nav:
-  - name: Blog
+  - name: 博客
     url: /archives
     target_blank: false # 不在新页面打开
   - name: 分类
