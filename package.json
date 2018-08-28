@@ -1,12 +1,13 @@
 {
   "name": "hexo-site",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "hexo": {
     "version": "3.7.1"
   },
   "dependencies": {
     "hexo": "^3.2.0",
+    "hexo-deployer-git": "^0.3.1",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-category": "^0.1.3",
     "hexo-generator-index": "^0.2.0",
@@ -17,5 +18,9 @@
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-search": "^1.0.4",
     "hexo-server": "^0.2.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:mu-mo/new-blog.git",
+  "author": "mu-mo <yun_tofar@qq.com>",
+  "license": "MIT"
 }
